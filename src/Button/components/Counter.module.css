@@ -1,0 +1,20 @@
+.counterWrapper {
+    width: 100%;
+    border-radius: 3rem;
+    border:0.5rem solid darkslateblue;
+    padding: 4rem 4rem;
+    background-color: white;
+    opacity: 0.9;
+}
+
+.defaultCounter {
+    font-size: 25px;
+    font-weight: normal;
+    padding-bottom: 0.3rem;
+}
+.criticalCounter {
+    font-size: 30px;
+    font-weight: bold;
+    color:crimson;
+    padding-bottom: 0.3rem;
+}
